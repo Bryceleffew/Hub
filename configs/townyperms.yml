@@ -111,6 +111,7 @@ towns:
   - towny.command.town.reclaim
   - towny.town.spawn.town
   - towny.chat.town
+  - tasks.withdraw.town
   
   # Mayors get these permissions in addition to the default set.
   mayor:
@@ -248,6 +249,7 @@ nations:
   - towny.town.spawn.ally
   - towny.chat.nation
   - towny.chat.alliance
+  - tasks.withdraw.nation
   
   # Kings get these permissions in addition to the default set.
   king:
