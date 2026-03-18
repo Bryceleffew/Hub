@@ -32,7 +32,7 @@
 # priority, this rank will then be searched for a prefix node. This prefix can be shown     #
 # using the %townyadvanced_resident_primary_rank% placeholder for PlaceholderAPI. A prefix  #
 # from a Nation rank will take precendence over a prefix from a Town rank.                  #
-# Ex:                                                                                       #
+# Ex:  BAD PIECE OF SHIT CODE                                                                                     #
 #    - towny.rankpriority.100                                                               #
 #    - towny.rankprefix.&a<&2Sheriff&a>                                                     #
 #                                                                                           #
